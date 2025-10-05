@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.footer {
+  width: 100%;
+}
+
+.footer .text-dark:hover {
+  /* Efecto simple de hover */
+  color: #007bff !important; 
+}

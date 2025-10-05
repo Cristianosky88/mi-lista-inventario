@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+📦 Mi Lista de Inventario
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicación web moderna para gestionar inventarios con operaciones CRUD completas
+----------------------------------------------------------------------------------
+📋 Descripción
+Mi Lista de Inventario es una aplicación web interactiva construida con React y Vite que permite gestionar inventarios de forma eficiente y moderna. Implementa todas las operaciones CRUD (Crear, Leer, Actualizar y Eliminar) con persistencia en tiempo real utilizando Firebase Firestore como backend.
 
-## Available Scripts
+✨ Características Destacadas
 
-In the project directory, you can run:
+✅ CRUD Completo: Gestión total de productos (Crear, Leer, Actualizar, Eliminar)
+🔥 Sincronización en Tiempo Real: Cambios instantáneos gracias a Firestore
+⚡ Rendimiento Optimizado: Construido con Vite para máxima velocidad
+🎨 UI Moderna: Componentes estilizados con React-Bootstrap
+🔒 Validación de Formularios: Control robusto con React Hook Form
 
-### `npm start`
+-------------------------------------------------------------------------------------
+🚀 Inicio Rápido
+Pre requisitos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Node.js](https://nodejs.org/) ≥ 16.x
+- npm o yarn
+- Cuenta de [Firebase](https://firebase.google.com/) con proyecto configurado
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1️⃣ Clonar el Repositorio
+```bash
+git clone https://github.com/Cristianosky88/mi-lista-inventario.git
+cd mi-lista-inventario
+```
 
-### `npm test`
+2️⃣ Instalar Dependencias
+bashnpm install
+# o con yarn
+yarn install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3️⃣. Configuración de Firebase (Variables de Entorno)
+Crea un archivo llamado .env en la raíz del proyecto y añade tus credenciales de configuración de Firebase (obtenidas desde la consola de Firebase):
 
-### `npm run build`
+4️⃣ Ejecutar en Desarrollo
+bash npm run dev
+La aplicación estará disponible en [http://localhost:5173](http://localhost:5173).
+----------------------------------------------------------------------------------------
+🐛 Reportar Problemas
+¿Encontraste un bug? Abre un issue con:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Descripción clara del problema
+Pasos para reproducirlo
+Comportamiento esperado vs actual
+Capturas de pantalla (si aplica)
+-----------------------------------------------------------------------------------------
+👨‍💻 Autor
+Cristian
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+GitHub: [@Cristianosky88](https://github.com/Cristianosky88)
+Email: ppedroso03@gmail.com
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🙏 Agradecimientos
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Equipo de React por su increíble librería
+Firebase por su plataforma BaaS
+Compañeros de estudio por su apoyo y colaboración 😊
