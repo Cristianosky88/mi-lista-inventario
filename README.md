@@ -40,12 +40,13 @@ bash npm run dev
 La aplicación estará disponible en [http://localhost:5173](http://localhost:5173).
 ----------------------------------------------------------------------------------------
 🐛 Reportar Problemas
-¿Encontraste un bug? Abre un issue con:
 
+¿Encontraste un bug? Abre un issue con:
 Descripción clara del problema
 Pasos para reproducirlo
 Comportamiento esperado vs actual
 Capturas de pantalla (si aplica)
+
 -----------------------------------------------------------------------------------------
 👨‍💻 Autor
 Cristian
