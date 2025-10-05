@@ -3,7 +3,7 @@
 Aplicación web moderna para gestionar inventarios con operaciones CRUD completas
 ----------------------------------------------------------------------------------
 📋 Descripción
-Mi Lista de Inventario es una aplicación web interactiva construida con React y Vite que permite gestionar inventarios de forma eficiente y moderna. Implementa todas las operaciones CRUD (Crear, Leer, Actualizar y Eliminar) con persistencia en tiempo real utilizando Firebase Firestore como backend.
+Mi Lista de Inventario es una aplicación web interactiva construida con React que permite gestionar inventarios de forma eficiente y moderna. Implementa todas las operaciones CRUD (Crear, Leer, Actualizar y Eliminar) con persistencia en tiempo real utilizando Firebase Firestore como backend.
 
 ✨ Características Destacadas
 
