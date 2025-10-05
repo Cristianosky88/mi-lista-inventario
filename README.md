@@ -29,7 +29,7 @@ cd mi-lista-inventario
 
 2️⃣ Instalar Dependencias
 bashnpm install
-# o con yarn
+o con yarn
 yarn install
 
 3️⃣. Configuración de Firebase (Variables de Entorno)
